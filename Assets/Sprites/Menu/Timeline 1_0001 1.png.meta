@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: c2975d8665f140b46aa15be22b0d16e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7136478710510131982
+    second: Timeline 1_0001_0
+  - first:
+      213: -6646507051061443825
+    second: Timeline 1_0001_1
+  - first:
+      213: -8361362092676905563
+    second: Timeline 1_0001_2
+  - first:
+      213: 2541709320803202884
+    second: Timeline 1_0001_3
+  - first:
+      213: -3593581157987560096
+    second: Timeline 1_0001_4
+  - first:
+      213: 6537614404484191755
+    second: Timeline 1_0001_5
+  - first:
+      213: -1143011470026347717
+    second: Timeline 1_0001_6
+  - first:
+      213: -3054780157518242959
+    second: Timeline 1_0001_7
+  - first:
+      213: -2054619282207357248
+    second: Timeline 1_0001_8
+  - first:
+      213: 2504824316182950490
+    second: Timeline 1_0001_9
+  - first:
+      213: 2941965243221219211
+    second: Timeline 1_0001_10
+  - first:
+      213: 8626447538447367326
+    second: Timeline 1_0001_11
+  - first:
+      213: 6610891975261669380
+    second: Timeline 1_0001_12
+  - first:
+      213: 4574890241805675426
+    second: Timeline 1_0001_13
+  - first:
+      213: 49783646884478459
+    second: Timeline 1_0001_14
+  - first:
+      213: 2573622432630290687
+    second: Timeline 1_0001_15
+  - first:
+      213: -4070355286018421367
+    second: Timeline 1_0001_16
+  - first:
+      213: -7030606255513073038
+    second: Timeline 1_0001_17
+  - first:
+      213: 8919038574452241473
+    second: Timeline 1_0001_18
+  - first:
+      213: -911178752988729936
+    second: Timeline 1_0001_19
+  - first:
+      213: 4704002178953383058
+    second: Timeline 1_0001_20
+  - first:
+      213: 540955964194332087
+    second: Timeline 1_0001_21
+  - first:
+      213: -7016609298022630747
+    second: Timeline 1_0001_22
+  - first:
+      213: 4829135193696881392
+    second: Timeline 1_0001_23
+  - first:
+      213: -6836442439579807325
+    second: Timeline 1_0001_24
+  - first:
+      213: -2205758300408623239
+    second: Timeline 1_0001_25
+  - first:
+      213: -1317824675168084972
+    second: Timeline 1_0001_26
+  - first:
+      213: -1530034975379047642
+    second: Timeline 1_0001_27
+  - first:
+      213: 5455784883415411613
+    second: Timeline 1_0001_28
+  - first:
+      213: 615709085778997097
+    second: Timeline 1_0001_29
+  - first:
+      213: 7705344063316417044
+    second: Timeline 1_0001_30
+  - first:
+      213: -7837956375185081481
+    second: Timeline 1_0001_31
+  - first:
+      213: 5550456579677615429
+    second: Timeline 1_0001_32
+  - first:
+      213: -1359983512033562610
+    second: Timeline 1_0001_33
+  - first:
+      213: 2272246442856275784
+    second: Timeline 1_0001_34
+  - first:
+      213: 6143380724238453340
+    second: Timeline 1_0001_35
+  - first:
+      213: -3265002877389133714
+    second: Timeline 1_0001_36
+  - first:
+      213: 4084703031429181586
+    second: Timeline 1_0001_37
+  - first:
+      213: 1522583781203387099
+    second: Timeline 1_0001_38
+  - first:
+      213: -1609064003975310479
+    second: Timeline 1_0001_39
+  - first:
+      213: -9092767538381156906
+    second: Timeline 1_0001_40
+  - first:
+      213: 6289228742333513585
+    second: Timeline 1_0001_41
+  - first:
+      213: -8493976063139141617
+    second: Timeline 1_0001_42
+  - first:
+      213: 8995103984358610624
+    second: Timeline 1_0001_43
+  - first:
+      213: -1699787320767799370
+    second: Timeline 1_0001_44
+  - first:
+      213: -4016769102690548384
+    second: Timeline 1_0001_45
+  - first:
+      213: 1127225711009647264
+    second: Timeline 1_0001_46
+  - first:
+      213: 6097455835119765071
+    second: Timeline 1_0001_47
+  - first:
+      213: -6600625210476764051
+    second: Timeline 1_0001_48
+  - first:
+      213: 7996471829421600888
+    second: Timeline 1_0001_49
+  - first:
+      213: 5230674728538148125
+    second: Timeline 1_0001_50
+  - first:
+      213: 6254126040337210237
+    second: Timeline 1_0001_51
+  - first:
+      213: -2821581063028630575
+    second: Timeline 1_0001_52
+  - first:
+      213: 5309562029905531773
+    second: Timeline 1_0001_53
+  - first:
+      213: -4015507049223050542
+    second: Timeline 1_0001_54
+  - first:
+      213: 973350038820033737
+    second: Timeline 1_0001_55
+  - first:
+      213: 4796588900084792917
+    second: Timeline 1_0001_56
+  - first:
+      213: -4829371961375184180
+    second: Timeline 1_0001_57
+  - first:
+      213: 8110789074698255814
+    second: Timeline 1_0001_58
+  - first:
+      213: 2534687347418254861
+    second: Timeline 1_0001_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Timeline 1_0001 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f144968bda494cbd514e0b170feb3
+      internalID: 1861650723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b39c70b37f3c6dc42b3525562ae72883
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Timeline 1_0001 1_0: 1861650723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
